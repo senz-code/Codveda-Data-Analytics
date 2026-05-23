@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 2 | Task 2: Time Series Analysis
-Dataset : Stock Prices CSV
 =============================================================
 """
 
