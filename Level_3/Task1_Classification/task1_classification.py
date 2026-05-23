@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 3 | Task 1: Predictive Modeling (Classification)
-Dataset : Churn (bigml-80 train / bigml-20 test)
 =============================================================
 """
 
