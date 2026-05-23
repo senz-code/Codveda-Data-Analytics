@@ -45,6 +45,3 @@
 - **Classification:** Random Forest achieved **F1-score ≈ 0.92** on churn prediction after GridSearchCV tuning
 - **Dashboard:** Interactive Plotly HTML dashboard with zoom, filters, and hover tooltips
 - **NLP:** TextBlob sentiment analysis with word clouds and temporal trend visualisation
-
-
-*#CodvedaJourney #CodvedaExperience #FutureWithCodveda*
