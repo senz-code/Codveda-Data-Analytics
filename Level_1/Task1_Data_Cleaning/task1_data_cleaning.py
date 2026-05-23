@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 1 | Task 1: Data Cleaning and Preprocessing
-Dataset : Iris CSV
 =============================================================
 """
 
