@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 2 | Task 3: Clustering Analysis (K-Means)
-Dataset : Iris CSV
 =============================================================
 """
 
