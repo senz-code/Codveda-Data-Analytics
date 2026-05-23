@@ -2,9 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 3 | Task 2: Building an Analytics Dashboard
-Dataset : Churn + Stock Prices + Iris
-Note    : Static multi-panel dashboard (matplotlib)
-          For a live interactive version, open task2_dashboard.html
 =============================================================
 """
 
