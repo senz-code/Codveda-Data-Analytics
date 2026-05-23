@@ -2,9 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 3 | Task 3: NLP – Sentiment Analysis
-Dataset : Sentiment CSV (social media posts)
-Tools   : pandas, re, matplotlib, seaborn (+ notes on
-          how to extend with nltk/TextBlob in a full env)
 =============================================================
 """
 
