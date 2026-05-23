@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 2 | Task 1: Regression Analysis
-Dataset : House Prices CSV (Boston-style)
 =============================================================
 """
 
