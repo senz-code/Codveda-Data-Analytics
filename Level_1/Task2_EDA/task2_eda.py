@@ -2,7 +2,6 @@
 =============================================================
 Codveda Technology - Data Analytics Internship
 Level 1 | Task 2: Exploratory Data Analysis (EDA)
-Dataset : Iris CSV
 =============================================================
 """
 
